@@ -82,7 +82,7 @@ export default class Resume extends Component {
                   </p>
                   <p>
                     Here I improved my Working in team skills and in solving
-                    problems as my job was troubleshoot various errors that
+                    problems as my job was troubleshoot diferent errors that
                     electric cars components could have.
                   </p>
                 </div>
